@@ -5,41 +5,61 @@ body {
     font-family: sans-serif;
     font-size: 23px;
 }
-
 .container {
     width: 1000px;
     margin: 0 auto;
     min-height: 1000px;
     background-image: url('Schaken.jpg');
-    color: white;
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
     padding-top: 125px;
 }
-.schaak1 {
+.schaak {
     /* background-color: rgba(255, 0, 0, 0.8); */
     width: 200px;
     cursor: pointer;
 }
-.loper .naam {
-    /* opacity: 0; */
+.schaak .naam {
+    opacity: 0; 
+    /* text-shadow: 0 0 3px black; */
 }
-.loper:hover .naam {
-    opacity: 1;
+.schaak:hover .naam {
+    opacity: 1; 
 }
 #loper {
-    margin-left: 110px;
+    margin-left: 111px;
     margin-top: 307px;
     padding-left: 187px;
     padding-bottom: 10px;
 }
 #loper .naam {
-    padding-left: 98px;
+    margin-left: 98px;
 }
-h3, p {
+#toren {
+    margin-left: 495px;
+    margin-top: -388px;
+    padding-top: 320px;
+    padding-right: 175px;
+    padding-left: 10px; 
+    padding-bottom: 10px;
+}
+#koning{
+    margin-left: 111px;
+    margin-top: 10px;
+    padding-left: 170px;
+    padding-bottom: 10px;
+}
+#paard{
+    margin-left: 495px;
+    margin-top: -75px;
+    padding: 10px 175px 320px 10px;
+}
+h3, p{
     margin: 0;
     padding: 0;
 }
 
-.naam {
+.naam{
     border-left: solid 9px red;
     padding-left: 9px;
 }
