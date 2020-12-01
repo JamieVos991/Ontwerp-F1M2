@@ -12,10 +12,10 @@ body {
     background-image: url('Schaken.jpg');
     background-repeat: no-repeat;
     color: rgb(0, 0, 0);
-    padding-top: 125px;
+    padding-top: 100px;
 }
 .schaak {
-    /* background-color: rgba(255, 0, 0, 0.8); */
+   /* background-color: rgba(255, 0, 0, 0.8); */
     width: 200px;
     cursor: pointer;
 }
@@ -24,31 +24,31 @@ body {
     /* text-shadow: 0 0 3px black; */
 }
 .schaak:hover .naam {
-    opacity: 1; 
+    opacity: 1;  
 }
 #loper {
-    margin-left: 111px;
-    margin-top: 307px;
-    padding-left: 187px;
+    margin-left: 100px;
+    padding-left: 198px;
+    padding-top: 331px;
     padding-bottom: 10px;
 }
 #loper .naam {
     margin-left: 98px;
 }
 #toren {
-    margin-left: 505px;
-    margin-top: -458px;
+    margin-left: 500px;
+    margin-top: -1125px;
+    padding: 10px 190px 335px 10px;
 }
 #koning{
-    margin-left: 210px;
-    margin-top: 10px;
-    padding-left: 170px;
-    padding-bottom: 10px;
+    margin-left: 100px;
+    margin-top: -2px;
+    padding: 10px 190px 335px 10px;
 }
 #paard{
-    margin-left: 495px;
-    margin-top: -75px;
-    padding: 10px 175px 320px 10px;
+    margin-left: 500px;
+    margin-top: -80px;
+    padding: 10px 190px 335px 150px;
 }
 h3, p{
     margin: 0;
