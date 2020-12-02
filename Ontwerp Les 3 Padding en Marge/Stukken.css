@@ -15,7 +15,7 @@ body {
     padding-top: 100px;
 }
 .schaak {
-   /* background-color: rgba(255, 0, 0, 0.8); */
+    /* background-color: rgba(255, 0, 0, 0.8); */
     width: 200px;
     cursor: pointer;
 }
@@ -35,20 +35,19 @@ body {
 #loper .naam {
     margin-left: 98px;
 }
-#toren {
+#toren { 
     margin-left: 500px;
-    margin-top: -1125px;
-    padding: 10px 190px 335px 10px;
+    margin-top: -801px;
+    padding: 10px 190px 335px 10px; 
 }
 #koning{
     margin-left: 100px;
     margin-top: -2px;
     padding: 10px 190px 335px 10px;
 }
-#paard{
+#paard { 
     margin-left: 500px;
-    margin-top: -80px;
-    padding: 10px 190px 335px 150px;
+    padding: 10px 51px 335px 150px; 
 }
 h3, p{
     margin: 0;
