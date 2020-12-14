@@ -8,4 +8,4 @@ Link naar live versie van de Padding en Marge opdracht: http://31694.hosts1.ma-c
 
 Link naar live versie van de Display opdracht: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%204%20Display/Display.html
 
-Link naar live versie van de Menu opdracht: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%205%Menu/Display.html
+Link naar live versie van de Menu opdracht: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%205%Menu/Menu.html
