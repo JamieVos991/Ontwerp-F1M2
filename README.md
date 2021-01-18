@@ -10,6 +10,6 @@ Link naar live versie van de Display opdracht: http://31694.hosts1.ma-cloud.nl/O
 
 Link naar live versie van de Menu opdracht: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%205%20Menu/Menu.html
 
-Link naar live versie van de ... opdracht: 
+Link naar live versie van de vershuif opdracht: 
 
 Link naar live versie van de Layout opdract: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%207%20Layouts/index.html
