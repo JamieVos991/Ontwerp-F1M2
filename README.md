@@ -12,4 +12,4 @@ Link naar live versie van de Menu opdracht: http://31694.hosts1.ma-cloud.nl/Ontw
 
 Link naar live versie van de vershuif opdracht: 
 
-Link naar live versie van de Layout opdract: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%207%20Layouts/index.html
+Link naar live versie van de Bootstrap opdract: http://31694.hosts1.ma-cloud.nl/Ontwerp%20Les%207%20Layouts/index.html
